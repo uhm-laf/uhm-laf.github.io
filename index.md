@@ -3,6 +3,15 @@
 
 ### A centralized lost and found website for the UH Mānoa community
 
+## Team Members
+
+| | Name | GitHub |
+|:-:|---|---|
+| <img src="https://github.com/rikisane.png" width="80"> | Riki Sanehira | [rikisane](https://github.com/rikisane) |
+| <img src="https://github.com/linsammi.png" width="80"> | Sammie Lin | [linsammi](https://github.com/linsammi) |
+| <img src="https://github.com/ethankirkham04.png" width="80"> | Ethan Kirkham | [ethankirkham04](https://github.com/ethankirkham04) |
+| <img src="https://github.com/JZu808.png" width="80"> | Jeremy Molina | [JZu808](https://github.com/JZu808) |
+
 ## Overview
 
 UH Mānoa Lost & Found is a web application designed to help students and staff find lost items around campus. Currently, lost items are reported through different offices, social media pages, and group chats, making it difficult for people to find their belongings.
@@ -30,13 +39,11 @@ We plan to develop the following pages:
 4. **Item Details Page:** Displays information about a specific item.
 5. **User Dashboard:** Allows users to manage their posts and saved matches.
 
-
 ## Mockups
 
 Below are our initial hand-drawn mockups for the UH Mānoa Lost & Found application.
 
 ![UH Mānoa Lost & Found Mockups](mockup.png)
-
 
 ## Development Tools
 
@@ -46,16 +53,6 @@ Below are our initial hand-drawn mockups for the UH Mānoa Lost & Found applicat
 - TypeScript
 - GitHub
 - Vercel
-
-## Team Members
-
-| | Name | GitHub |
-|:-:|---|---|
-| <img src="https://github.com/rikisane.png" width="80"> | Riki Sanehira | [rikisane](https://github.com/rikisane) |
-| <img src="https://github.com/linsammi.png" width="80"> | Sammie Lin | [linsammi](https://github.com/linsammi) |
-| <img src="https://github.com/ethankirkham04.png" width="80"> | Ethan Kirkham | [ethankirkham04](https://github.com/ethankirkham04) |
-| <img src="https://github.com/JZu808.png" width="80"> | Jeremy Molina | [JZu808](https://github.com/JZu808) |
-
 
 ## Project Links
 
