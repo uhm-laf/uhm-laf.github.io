@@ -59,6 +59,7 @@ Below are our initial hand-drawn mockups for the UH Mānoa Lost & Found applicat
 - [GitHub Organization](https://github.com/UHM-LaF)
 - [Application Repository](https://github.com/UHM-LaF/lost-and-found)
 - [Website Repository](https://github.com/UHM-LaF/uhm-laf.github.io)
+- [Team Contract](https://docs.google.com/document/d/1efYDjcV5zIe6wEJnHB0GmTwKt06BOGtC7FJocyD_SZk/edit?tab=t.0)
 
 ## Development Progress
 
