@@ -30,9 +30,13 @@ We plan to develop the following pages:
 4. **Item Details Page:** Displays information about a specific item.
 5. **User Dashboard:** Allows users to manage their posts and saved matches.
 
+
 ## Mockups
 
-Screenshots and mockups of our planned application pages will be added as development progresses.
+Below are our initial hand-drawn mockups for the UH Mānoa Lost & Found application.
+
+![UH Mānoa Lost & Found Mockups](mockup.png)
+
 
 ## Development Tools
 
